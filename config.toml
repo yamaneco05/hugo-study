@@ -1,0 +1,7 @@
+baseURL = "http://localhost:1313"
+languageCode = "ja"
+title = "Yボタンがネギに見える"
+contentDir = "post"
+disableKinds = ["RSS", "sitemap"]
+[taxonomies]
+tag = "tags"
